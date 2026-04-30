@@ -1,3 +1,6 @@
 @startmindmap img_proc_expert_13
 + 深層学習による画像認識と生成
+-- 13-1 ニューラルネットワーク
+-- 13-2 深層学習
+++ 13-3 CNNによる画像認識と画像生成
 @endmindmap
